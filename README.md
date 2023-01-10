@@ -1,5 +1,6 @@
-###                       Hi I'm Kisoo 👋
-
+### Hi I'm Kisoo 👋
+I'm interested in Machine Learning / Deep Learning and Natural Language Processing. But, it would be changed regularly. 
+If you want to see my information, here is my CV
 <!--
 **Kisooofficial/Kisooofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
