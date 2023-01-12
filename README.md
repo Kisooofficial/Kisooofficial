@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffC0CB&height=300&section=header&text=Kisoo's github%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffC0CB&height=300&section=header&text=Kisoo's github)
 <h1 align="center">
 I'm a dreamer studying data science.</h1>    
 ### Hi I'm Kisoo 👋
