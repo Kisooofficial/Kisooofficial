@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=300&section=header&text=Kisoo%20Kim&fontSize=90)
 <h1 align="center">
-I'm a dreamer studying data science.</h1>    
+I'm a dreamer studying data science.</h1>
+</header>
 ### Hi I'm Kisoo 👋<br>
 <div>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKisooofficial)](https://hits.seeyoufarm.com)
