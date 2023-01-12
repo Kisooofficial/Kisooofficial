@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffC0CB&height=300&section=header&text=Kisoo's github%20&fontSize=90)
+<h1 align="center">
+I'm a dreamer studying data science.</h1>    
 ### Hi I'm Kisoo 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKisooofficial)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kisooofficial2@gmail.com)](mailto:kisooofficial2@gmail.com) 
