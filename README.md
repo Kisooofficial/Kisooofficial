@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Kisoo'sGithub)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text="Kisoo's Github")
 <h1 align="center">
 I'm a dreamer studying data science.</h1>    
 ### Hi I'm Kisoo 👋
