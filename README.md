@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi I'm Kisoo, I'm a dreamer of studying data science👋
+# Hi I'm Kisoo, I'm a dreamer of studying data science. <br>And, I'm a light fan of team Arsenal.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKisooofficial)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=300&section=header&text=Kisooofficial&fontSize=80)
@@ -14,7 +14,21 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/kisooofficial)](https://blog.naver.com/kisooofficial)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-00ff00?style=flat-square&logo=instagram&logoColor=white&link=https://www.facebook.com/profile.php?id=100025947379584)](https://www.instagram.com/ki_soo_ya/) 
 
-## 🔭etc
+## 🔭About me
+
+### :mortar_board: Education
+- B.S. in School of Data Science, Kwangwoon University `2018.03 ~ 2024.02`
+
+### 🔭 Internships
+- Undergraduate Research Student in PADA Lab, Kwangwoon University `2022.07 ~ `
+### ⚡ ExtraCurricular Activity
+
+- Team Member of Big Data Alliance Club Boaz ```2023.01 ~ present```
+- Administrator of Student Association Presentation Club SPLING 45th ```2022.01 ~ 2022.06```
+- Team Member of Student Association Presentation Club SPLING 45th ```2021.08 ~ 2021.12```
+- Team Leader for Education Donation Program 'Sok Sok Camp' ```2021.04 ~ 2021.09```
+
+### ⚡ Interests
 I'm interested in **Machine Learning / Deep Learning** and **Natural Language Processing**. But, it would be changed regularly. <br>
 If you want to see more information about me, here is my [**CV 📥**](https://github.com/Kisooofficial/CV/blob/main/Update_20230105.pdf)
 
