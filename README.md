@@ -20,7 +20,8 @@
 - B.S. in School of Data Science, Kwangwoon University `2018.03 ~ 2024.02`
 
 ### 🔭 Internships
-- Undergraduate Research Student in PADA Lab, Kwangwoon University `2022.07 ~ `
+- Undergraduate Research Student in PADA Lab, Kwangwoon University `2022.07 ~ present`
+
 ### ⚡ ExtraCurricular Activity
 
 - Team Member of Big Data Alliance Club Boaz ```2023.01 ~ present```
