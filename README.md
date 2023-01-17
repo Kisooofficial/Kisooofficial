@@ -29,8 +29,9 @@
 - Team Member of Student Association Presentation Club SPLING 45th ```2021.08 ~ 2021.12```
 - Team Leader for Education Donation Program 'Sok Sok Camp' ```2021.04 ~ 2021.09```
 
-### ⚡ Interests
+### 😄 Interests
 I'm interested in **Machine Learning / Deep Learning** and **Natural Language Processing**. But, it would be changed regularly. <br>
+I'm currently learning **Data Visualization with Tableau** in BOAZ.<br>
 If you want to see more information about me, here is my [**CV 📥**](https://github.com/Kisooofficial/CV/blob/main/Update_20230105.pdf)
 
 <div>
