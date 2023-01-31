@@ -68,7 +68,7 @@ Here is [my dacon profile page](https://dacon.io/myprofile/427011/home). I'm sti
 - 🏅 데이콘 Basic 여행 상품 신청 여부 예측 경진대회 - **2nd placed (2/357)** [[overview](https://dacon.io/competitions/official/235959/overview/description)] [[code](https://dacon.io/codeshare/6479)]
 - 🏅 데이콘 Basic 축구선수 유망여부 예측 경진대회 - **3rd placed (3/89)** [[overview](https://dacon.io/competitions/open/236031/overview/description)][[code](https://dacon.io/competitions/open/236031/codeshare/7115?page=1&dtype=recent)]
 - 🥉 SW중심대학 공동 AI 경진대회 예선 - **Top 5% (8/192)** [[overview](https://dacon.io/competitions/official/235902/overview/description)][[code](https://dacon.io/competitions/official/235902/codeshare/6157?page=1&dtype=vote)]
-- 🥉 데이콘 Basic 음악 장르 예측 경진대회 - **Top 7% (9/125)**[[overview](https://dacon.io/competitions/official/236056/overview/descriptionhttps://dacon.io/competitions/official/236056/overview/description)]
+- 🥉 데이콘 Basic 음악 장르 예측 경진대회 - **Top 7% (9/125)**[[overview](https://dacon.io/competitions/official/236056/overview/descriptionhttps://dacon.io/competitions/official/236056/overview/description)][code]
 - 데이콘 Basic 해외 부동산 월세 가격 예측 경진대회 - **Top 12% (9/70)** [[overview](https://dacon.io/competitions/open/236044/overview/description)][[code](https://dacon.io/competitions/open/236044/codeshare/7348?page=1&dtype=recent)]
 
 
