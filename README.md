@@ -50,8 +50,10 @@ If you want to see more information about me, here is my [**CV 📥**](https://g
   <img src="https://img.shields.io/badge/Numpy-150458?style=flat-square&logo=Numpy&logoColor=white">
   <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br/>
-     
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-00ffff?style=flat-square&logo=Matplotlib&logoColor=black">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"> <br/> 
+  
   ### 🛠 Tools
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
