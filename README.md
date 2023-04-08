@@ -17,7 +17,7 @@
 ## 🔭About me
 
 ### :mortar_board: Education
-- B.S. in School of Data Science, Kwangwoon University `2018.03 ~ 2024.02`
+- B.S. in School of Data Science, Kwangwoon University `2018.03 ~ 2024.02` (Expected)
 
 ### 🔭 Internships
 - Undergraduate Research Student in PADA Lab, Kwangwoon University `2022.07 ~ present`
