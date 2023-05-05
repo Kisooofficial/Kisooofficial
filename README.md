@@ -31,7 +31,7 @@
 
 ### 😄 Interests
 I'm interested in **Machine Learning / Deep Learning** and **Natural Language Processing**. But, it would be changed regularly. <br>
-I'm currently studying **Tableau** in BOAZ.<br>
+I'm currently studying **Tableau** and **Deep Learning** in BOAZ.<br>
 If you want to see more information about me, here is my [**CV 📥**](https://github.com/Kisooofficial/CV/blob/main/update_0408.pdf)
 
 <div>
