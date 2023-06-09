@@ -24,7 +24,8 @@
 
 ### ⚡ ExtraCurricular Activity
 
-- Team Member of the Data Visualization & Data Analytics in Boaz, Big Data Alliance Club ```2023.01 ~ 2024.01```
+- Team Member of the Data Visualization & Data Analytics in Boaz Advance Session, Big Data Alliance Club ```2023.07 ~ 2024.01```
+- Team Member of the Data Visualization & Data Analytics in Boaz Base Session, Big Data Alliance Club ```2023.01 ~ 2023.06```
 - Administrator of Student Association Presentation Club SPLING 47th ```2022.01 ~ 2022.06```
 - Team Member of Student Association Presentation Club SPLING 45th ```2021.08 ~ 2021.12```
 - Team Leader for Education Donation Program 'Sok Sok Camp' ```2021.04 ~ 2021.09```
