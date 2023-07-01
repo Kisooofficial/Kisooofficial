@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi I'm Kisoo, I'm a dreamer of studying data science. <br>Also, I'm a light fan of team Arsenal.👋
+# Hi I'm Kisoo, I'm a dreamer of studying Machine Learning & Deep Learning. <br>Also, I'm a light fan of team Arsenal.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKisooofficial)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=300&section=header&text=Kisooofficial&fontSize=80)
