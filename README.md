@@ -17,14 +17,15 @@
 ## 🔭About me
 
 ### :mortar_board: Education
-- B.S. in School of Data Science, Kwangwoon University `2018.03 ~ 2024.02` 
+- Integrated Ph.D. Interdisciplinary Program in Artificial Intelligence, Seoul University ```2024.03 ~ current```
+- B.S. in School of Data Science, Kwangwoon University `2018.03 ~ 2024.02`
 
 ### 🔭 Internships
 - Undergraduate Research Student in PADA Lab, Kwangwoon University `2022.07 ~ 2023.07`
 
 ### ⚡ ExtraCurricular Activity
 
-- Team Member of the Data Visualization in Boaz Advance Session, Big Data Alliance Club ```2023.07 ~ current```
+- Team Member of the Data Visualization in Boaz Advance Session, Big Data Alliance Club ```2023.07 ~ 2024.01```
 - Team Member of the Data Visualization & Data Analytics in Boaz Base Session, Big Data Alliance Club ```2023.01 ~ 2023.06```
 - Administrator of Student Association Presentation Club SPLING 47th ```2022.01 ~ 2022.06```
 - Team Member of Student Association Presentation Club SPLING 45th ```2021.08 ~ 2021.12```
