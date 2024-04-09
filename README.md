@@ -80,7 +80,9 @@ Here is [my dacon profile page](https://dacon.io/myprofile/427011/home). I'm sti
 - 데이콘 Basic 해외 부동산 월세 가격 예측 경진대회 - **Top 12% (9/70)** [[overview](https://dacon.io/competitions/open/236044/overview/description)][[code](https://dacon.io/competitions/open/236044/codeshare/7348?page=1&dtype=recent)]
 
 ## 🏆 Other Competitions
-- LG Aimers 4th - **3rd place in Private Score, Top 5 in Final** 
+- LG Aimers 4th  **3rd place in Private Score, Top 5 in Final**
+
+  
 [![Kisoo's github stats](https://github-readme-stats.vercel.app/api?username=kisooofficial&show_icons=true&theme=tokyonight)](https://github.com/kisooofficial)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisooofficial&layout=compact&theme=tokyonight)
 
   <!--
