@@ -32,10 +32,10 @@
 - Team Leader for Education Donation Program 'Sok Sok Camp' ```2021.04 ~ 2021.09```
 
 ### 😄 Interests
-I'm interested in **Machine Learning / Deep Learning** and **Natural Language Processing**. But, it would be changed regularly. <br>
-I'm currently studying **Tableau** and **Deep Learning** in BOAZ.<br>
+I'm interested in **Machine Learning / Deep Learning** and **Analysis of Irregular Tensors**. But, it would be changed regularly. <br>
+I studied **Tableau** and **Deep Learning** in BOAZ.<br>
 I'll also study **CS231n, CS229n** too.<br>
-I'm currently in PADA Lab for internship. I want to learn time series data analysis and recommendation system.
+I'm currently in Data Mining Lab. I want to learn time series data analysis and recommendation system.
 If you want to see more information about me, here is my [**CV 📥**](https://github.com/Kisooofficial/CV/blob/main/kisoo_cv.pdf)
 
 <div>
@@ -79,7 +79,8 @@ Here is [my dacon profile page](https://dacon.io/myprofile/427011/home). I'm sti
 - 🥉 데이콘 Basic 음악 장르 예측 경진대회 - **Top 7% (9/125)**[[overview](https://dacon.io/competitions/official/236056/overview/descriptionhttps://dacon.io/competitions/official/236056/overview/description)][[code](https://dacon.io/competitions/official/236056/codeshare/7526?page=1&dtype=recent)]
 - 데이콘 Basic 해외 부동산 월세 가격 예측 경진대회 - **Top 12% (9/70)** [[overview](https://dacon.io/competitions/open/236044/overview/description)][[code](https://dacon.io/competitions/open/236044/codeshare/7348?page=1&dtype=recent)]
 
-
+## 🏆 Other Competitions
+- LG Aimers 4th - **3rd place in Private Score, Top 5 in Final** 
 [![Kisoo's github stats](https://github-readme-stats.vercel.app/api?username=kisooofficial&show_icons=true&theme=tokyonight)](https://github.com/kisooofficial)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisooofficial&layout=compact&theme=tokyonight)
 
   <!--
