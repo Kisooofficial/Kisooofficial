@@ -34,7 +34,7 @@
 ### 😄 Interests
 I'm interested in **Machine Learning / Deep Learning** and **Analysis of Irregular Tensors**. But, it would be changed regularly. <br>
 I studied **Tableau** and **Deep Learning** in BOAZ.<br>
-I'll also study **CS231n, CS229n** too.<br>
+I also studied **CS231n, CS229n** too.<br>
 I'm currently in Data Mining Lab. I want to learn time series data analysis and recommendation system.
 If you want to see more information about me, here is my [**CV 📥**](https://github.com/Kisooofficial/CV/blob/main/kisoo_cv.pdf)
 
