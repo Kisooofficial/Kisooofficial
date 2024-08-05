@@ -32,10 +32,13 @@
 - Team Leader for Education Donation Program 'Sok Sok Camp' ```2021.04 ~ 2021.09```
 
 ### 😄 Interests
-I'm interested in **Machine Learning / Deep Learning** and **Analysis of Irregular Tensors**. But, it would be changed regularly. <br>
-I studied **Tableau** and **Deep Learning** in BOAZ.<br>
-I also studied **CS231n, CS229n** too.<br>
-I'm currently in Data Mining Lab. I want to learn time series data analysis and recommendation system.
+- Time Series Analysis
+- Machine Learning / Deep Learning
+- Recommendation system
+### Challenge
+- When decomposing an irregular tensor where one axis is related to time, how can we effectively reflect both local patterns and global patterns in the time series to achieve fast and accurate decomposition?
+- How can we effectively capture local and global patterns in time series data using ML/DL?
+### Additional Information
 If you want to see more information about me, here is my [**CV 📥**](https://github.com/Kisooofficial/CV/blob/main/kisoo_cv.pdf)
 
 <div>
