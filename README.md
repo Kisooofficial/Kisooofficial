@@ -32,7 +32,7 @@
 - Team Leader for Education Donation Program 'Sok Sok Camp' ```2021.04 ~ 2021.09```
 
 ### 😄 Interests
-- Time Series Analysis
+- Time Series Analysis & Irregular tensor decomposition
 - Machine Learning / Deep Learning
 - Recommendation system
 ### Challenge
