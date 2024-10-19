@@ -17,7 +17,7 @@
 ## 🔭About me
 
 ### :mortar_board: Education
-- Integrated Ph.D. Interdisciplinary Program in Artificial Intelligence, Seoul University ```2024.03 ~ ```
+- Integrated Ph.D. Interdisciplinary Program in Artificial Intelligence, Seoul National University ```2024.03 ~ ```
 - B.S. in School of Data Science, Kwangwoon University `2018.03 ~ 2024.02`
 
 ### 🔭 Internships
